@@ -1,1 +1,1 @@
-<p> Authentication Login and App</p>
+<p> Signİn and SignOut Authentication App</p>
